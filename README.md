@@ -9,9 +9,9 @@
 
 <div>
  
-I am a 23-year-old Brazilian software developer 🇧🇷 and former UFRGS Computer Science student, currently enrolled in a double-degree program in Information Systems Engineering 👨🏻‍💻 at ENSIMAG - Grenoble INP, France 🇫🇷.
+I am a 23-year-old Brazilian software developer 🇧🇷 and former UFRGS Computer Science student, currently finishing my MsC in Cloud Computing & Data Infrastructures 👨🏻‍💻 at ENSIMAG - Grenoble INP, France 🇫🇷.
 
-I love learning about new tech and exploring fields related to OS, low-level programming ⚙️ and Computer Networks 🌐. I also enjoy solving competitive programming problems. When I'm not coding, I'm probably hiking, cycling, or skating 🌲🚴🛹.
+I love exploring and contributing to fields related to Computer Networks 🌐, OS and low-level programming ⚙️. When I'm not coding, I'm probably hiking, cycling, or skating 🌲🚴🛹.
 
 💬 Ask me about anything! I'll be happy to get in touch ;))
 
